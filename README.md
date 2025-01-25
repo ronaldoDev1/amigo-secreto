@@ -12,9 +12,9 @@ Este projeto é uma aplicação simples para gerenciar uma lista de amigos e rea
 
 <h3>HTML</h3>
 O arquivo HTML define a estrutura básica da interface, incluindo:
-* Um campo de entrada para inserir nomes.
-* Botões para adicionar amigos, sortear e resetar o jogo.
-* Listas dinâmicas para exibir os amigos e o resultado do sorteio.
+*Um campo de entrada para inserir nomes.
+*Botões para adicionar amigos, sortear e resetar o jogo.
+*Listas dinâmicas para exibir os amigos e o resultado do sorteio.
 
 <h3>CSS</h3>
 O arquivo style.css é responsável pela estilização da interface, garantindo uma apresentação agradável.
